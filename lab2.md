@@ -188,12 +188,4 @@ Ask AI:
 * Avoid latest tag
 * Reduce image size
 
-## Deliverable
 
-* Security improvements applied
-
----
-
-
-* Convert this into a 1-day hands-on lab
-* Provide instructor solution sheet (with answers)
